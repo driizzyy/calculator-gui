@@ -30,8 +30,8 @@ A comprehensive, feature-rich calculator application with a modern graphical use
 
 1. Clone the repository:
    ```
-   git clone https://github.com/driizzyy/advanced-calculator.git
-   cd advanced-calculator
+   git clone https://github.com/driizzyy/calculator-gui.git
+   cd calculator-gui
    ```
 
 2. Install the required dependencies:
